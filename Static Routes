@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T12:54:05.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TSnmW7rncXDlPaRGwXq_" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T12:55:49.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EMzNK4Ih_W6ySBY7Lv3i" version="20.4.0" type="github" pages="3">
   <diagram id="0fo7a37-nAynkJ3ZWPIt" name="Routers">
-    <mxGraphModel dx="2276" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,14 +192,14 @@
         <mxCell id="1L5QylKb1teU9VOt-Ekx-76" value="MAC: CC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="533.5" y="680" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-77" value="MAC Address Table&lt;br&gt;MAC BB --&amp;gt; Eth1/2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-77" value="&lt;b&gt;MAC Address Table&lt;br&gt;&lt;/b&gt;MAC BB --&amp;gt; Eth1/2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="840" width="263" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-78" value="&lt;b&gt;ARP Table&lt;br&gt;&lt;/b&gt;192.168.2.1 --&amp;gt; BB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="242" y="840" width="263" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-79" value="&lt;b&gt;Routing Table&lt;br&gt;&lt;/b&gt;192.168.1.2 --&amp;gt; 192.168.2.1&lt;br&gt;198.168.2.1 --&amp;gt; Eth1/2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="520" y="840" width="263" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-78" value="ARP Table&lt;br&gt;192.168.2.1 --&amp;gt; BB" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="243.5" y="840" width="263" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-79" value="Routing Table&lt;br&gt;192.168.1.2 --&amp;gt; 192.168.2.1&lt;br&gt;198.168.2.1 --&amp;gt; Eth1/2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=12;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-39.5" y="840" width="263" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1L5QylKb1teU9VOt-Ekx-80" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
