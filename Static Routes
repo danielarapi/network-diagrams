@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T12:57:07.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7ZYyreA8lv6nwC2WvR5h" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T12:57:37.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5SkvKjt6uY5IFHclhrXo" version="20.4.0" type="github" pages="3">
   <diagram id="0fo7a37-nAynkJ3ZWPIt" name="Routers">
-    <mxGraphModel dx="1426" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,10 +19,10 @@
         <mxCell id="1L5QylKb1teU9VOt-Ekx-36" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="595" y="90" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-38" value="192.168.1.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-38" value="192.168.1.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="276.5" y="50" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-40" value=".2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-40" value=".2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="243" y="90" width="27" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1L5QylKb1teU9VOt-Ekx-41" value=".1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -31,10 +31,10 @@
         <mxCell id="1L5QylKb1teU9VOt-Ekx-42" value=".1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-43" value=".2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-43" value=".2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="565" y="90" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-45" value="192.168.2.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-45" value="192.168.2.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="475" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1L5QylKb1teU9VOt-Ekx-46" value="Eth1/1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -49,13 +49,13 @@
         <mxCell id="1L5QylKb1teU9VOt-Ekx-49" value="Eth1/2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="556.5" y="120" width="37" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-51" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-51" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="206.25" y="70" width="20.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-52" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-52" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="410" y="70" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1L5QylKb1teU9VOt-Ekx-53" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1L5QylKb1teU9VOt-Ekx-53" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="610" y="70" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1L5QylKb1teU9VOt-Ekx-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
